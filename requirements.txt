@@ -66,3 +66,4 @@ wincertstore==0.2
 xgboost==0.90
 yarl==1.6.3
 zipp==2.0.1
+pytest
